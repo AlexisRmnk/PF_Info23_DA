@@ -25,7 +25,7 @@ A continuacion se indica como realizar la instalacion de los programas necesario
 Ya puede ejecutar el codigo desde VS CODE. No es necesario activar/desactivar el entorno desde miniconda para su utilizacion.
 
 ### Aclaraciones
-Debe tener su API key de [insertar servicio utilizado] necesaria en un archivo 'credenciales.py' en una constante 'API_KEY'.
+Debe tener su API key de [OpenWeatherMap](https://openweathermap.org/api) necesaria en un archivo 'credenciales.py' en una constante 'API_KEY'.
 
 Ej:
 ```python
