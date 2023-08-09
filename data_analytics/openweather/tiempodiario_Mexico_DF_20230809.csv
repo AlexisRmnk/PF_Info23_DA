@@ -1,2 +1,2 @@
 weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,main.sea_level,main.grnd_level,wind.speed,wind.deg,wind.gust,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
-"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",stations,10000,1691459622,14400,616971,Amasia,200,44,41,6.13,4.17,6.13,6.13,1015,69,1015,765,2.59,27,2.3,0,1,8847,AM,1691460374,1691511195
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",stations,10000,1691622404,-21600,3515434,Tlalnepantla,200,-99,19,25.29,25.39,25.29,27.43,1013,58,1013,807,2.27,198,1.9,55,1,7101,MX,1691583326,1691629662

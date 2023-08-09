@@ -1,2 +1,0 @@
-weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,main.sea_level,main.grnd_level,wind.speed,wind.deg,wind.gust,rain.1h,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
-"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",stations,10000,1691459563,-21600,3515434,Tlalnepantla,200,-99,19,25.43,26.38,25.43,25.43,1019,90,1019,808,2.36,358,1.9,0.19,53,1,7146,MX,1691410489,1691456928

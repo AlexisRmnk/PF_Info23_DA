@@ -1,2 +1,2 @@
 weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,main.sea_level,main.grnd_level,wind.speed,wind.deg,wind.gust,clouds.all,sys.country,sys.sunrise,sys.sunset
-"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",stations,10000,1691459619,-18000,5119232,Great River,200,-73,40,24.45,25.22,24.45,24.45,1010,87,1010,1010,10.51,185,15.2,53,US,1691402145,1691452792
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",stations,10000,1691622401,-18000,5119232,Great River,200,-73,40,24.37,24.79,24.37,24.37,1007,74,1007,1007,8.48,225,11.4,0,US,1691575060,1691625449
