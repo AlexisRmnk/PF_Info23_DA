@@ -2,13 +2,13 @@
 Repositorio creado para la etapa 3 - Especializacion en Data Analytics - para el Informatorio. Agosto 2023.
 
 ## Colaboradores
-[Acosta, Sergio Gustavo](https://github.com/sergioacos)
-[Fernández, Gustavo Nicolás](https://github.com/Gu57avo)
-[Nichiporuk, Fernanda](https://github.com/FernandaNichiporuk)
-[Ojcius, Gabriela](https://github.com/GabrielaOjcius/GabrielaOjcius)
-[Romaniuk, Alexis Agustin](https://github.com/AlexisRmnk)
-[Svenson, Alex](https://github.com/Alexsvn1)
-[Turbay, Julieta Lourdes](https://github.com/juliturbay)
+* [Acosta, Sergio Gustavo](https://github.com/sergioacos)
+* [Fernández, Gustavo Nicolás](https://github.com/Gu57avo)
+* [Nichiporuk, Fernanda](https://github.com/FernandaNichiporuk)
+* [Ojcius, Gabriela](https://github.com/GabrielaOjcius/GabrielaOjcius)
+* [Romaniuk, Alexis Agustin](https://github.com/AlexisRmnk)
+* [Svenson, Alex](https://github.com/Alexsvn1)
+* [Turbay, Julieta Lourdes](https://github.com/juliturbay)
 
 ## Instrucciones 
 A continuacion se indica como realizar la instalacion de los programas necesarios junto a la creacion del entorno virtual utilizando miniconda.
