@@ -1,0 +1,2 @@
+weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,main.sea_level,main.grnd_level,wind.speed,wind.deg,wind.gust,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",stations,10000,1691622405,7200,2746304,Tijnje,200,6,53,13.82,13.58,12.03,15.57,1020,89,1020,1021,1.58,274,1.6,4,2,2001318,NL,1691640475,1691694902

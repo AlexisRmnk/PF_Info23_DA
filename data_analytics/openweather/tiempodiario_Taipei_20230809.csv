@@ -1,0 +1,2 @@
+weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,main.sea_level,main.grnd_level,wind.speed,wind.deg,wind.gust,clouds.all,sys.country,sys.sunrise,sys.sunset
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",stations,10000,1691622403,14400,1168312,Pasni,200,64,25,26.87,29.81,26.87,26.87,1003,84,1003,1003,6.98,256,7.7,100,PK,1691630131,1691677409
